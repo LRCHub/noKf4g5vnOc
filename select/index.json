@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "[cover] ネトゲ廃人シュプレヒコール/ PARED",
+  "base_artist": "PARED",
+  "createdAt": "2025-12-01T00:11:16.929040Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cover Me In Sunshine",
+      "artist": "P!nk feat. Willow Sage Hart",
+      "has_synced": true,
+      "path": "select/01_Cover_Me_In_Sunshine_P!nk_feat._Willow_Sage_Hart.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cover Me",
+      "artist": "Jo Dee Messina",
+      "has_synced": false,
+      "path": "select/02_Cover_Me_Jo_Dee_Messina.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Cover Me Up",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/03_Cover_Me_Up_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Cover Me Up",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/04_Cover_Me_Up_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Cover Me Up",
+      "artist": "Morgan Wallen",
+      "has_synced": true,
+      "path": "select/05_Cover_Me_Up_Morgan_Wallen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Cover You in Kisses",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/06_Cover_You_in_Kisses_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We R who we R [Kesha Cover]",
+      "artist": "Woe, Is Me",
+      "has_synced": false,
+      "path": "select/07_We_R_who_we_R_[Kesha_Cover]_Woe,_Is_Me.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Talk to Me (Peter Gabriel Cover)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/08_Come_Talk_to_Me_(Peter_Gabriel_Cover)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Can't Make You Love Me / Nick of Time (Bonnie Raitt Cover)",
+      "artist": "Bon Iver",
+      "has_synced": true,
+      "path": "select/09_I_Can't_Make_You_Love_Me___Nick_of_Time_(Bonnie_Raitt_Cover)_Bon_Iver.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cover Your Tracks",
+      "artist": "Young Galaxy",
+      "has_synced": true,
+      "path": "select/10_Cover_Your_Tracks_Young_Galaxy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cover My Eyes",
+      "artist": "La Roux",
+      "has_synced": true,
+      "path": "select/11_Cover_My_Eyes_La_Roux.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cover My Eyes (Costra Nostra edit)",
+      "artist": "Major Lazer & La Roux",
+      "has_synced": false,
+      "path": "select/12_Cover_My_Eyes_(Costra_Nostra_edit)_Major_Lazer_&_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cover My Eyes (Costra Nostra Edit)",
+      "artist": "Major Lazer & La Roux",
+      "has_synced": false,
+      "path": "select/13_Cover_My_Eyes_(Costra_Nostra_Edit)_Major_Lazer_&_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cover Girl",
+      "artist": "Mr Hudson & The Library",
+      "has_synced": false,
+      "path": "select/14_Cover_Girl_Mr_Hudson_&_The_Library.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cover The Roots / Lower The Stems",
+      "artist": "Moving Mountains",
+      "has_synced": true,
+      "path": "select/15_Cover_The_Roots___Lower_The_Stems_Moving_Mountains.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nobody Home (Pink Floyd Cover)",
+      "artist": "Metric",
+      "has_synced": false,
+      "path": "select/16_Nobody_Home_(Pink_Floyd_Cover)_Metric.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Antisocial (Trust cover)",
+      "artist": "Anthrax",
+      "has_synced": true,
+      "path": "select/17_Antisocial_(Trust_cover)_Anthrax.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Black Metallic (Cover Of Catherine Wheel)",
+      "artist": "Hammock",
+      "has_synced": false,
+      "path": "select/18_Black_Metallic_(Cover_Of_Catherine_Wheel)_Hammock.txt"
+    },
+    {
+      "id": "petitlyrics",
+      "source": "petitlyrics",
+      "title": "[cover] ネトゲ廃人シュプレヒコール/ PARED",
+      "artist": "PARED",
+      "has_synced": false,
+      "path": "select/pl_[cover]_ネトゲ廃人シュプレヒコール__PARED_PARED.txt"
+    }
+  ]
+}
